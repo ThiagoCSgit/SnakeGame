@@ -17,10 +17,10 @@ body{
     grid-template-columns: repeat(21, 1fr);
 }
 
-.snake:first-child{
+/* .snake:first-child{
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-}
+} */
 
 .snake{
     background-color: hsl(200, 100%, 50%);
